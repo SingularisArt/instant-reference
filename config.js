@@ -1,2 +1,2 @@
-export const papersDirectory = '/home/gilles/phd/papers/'
+export const papersDirectory = '/home/hashem/Documents/school-notes/current-course/papers'
 export const pdfReader = 'zathura'
