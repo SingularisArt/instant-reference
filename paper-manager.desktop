@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Help manage my research papers
+Exec=/home/hashem/Singularis/third-party-tools/instant-reference/paper-manager-protocol.js %u
+Icon=emacs-icon
+Type=Application
+Terminal=false
+MimeType=x-scheme-handler/phd;
