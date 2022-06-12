@@ -13,5 +13,8 @@
   "dependencies": {
     "dbus-next": "^0.10.2",
     "execa": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.42"
   }
 }
